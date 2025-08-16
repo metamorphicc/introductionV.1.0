@@ -3,6 +3,12 @@
 	padding: 0px;
 	margin: 0px;
 	border: none;
+    color: white;
+    font-size: 15px;
+    font-family: "Space Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0.005rem;
 }
 
 *,
@@ -94,4 +100,5 @@ body {
     background-repeat: no-repeat; /* если нужно */
     background-attachment: fixed; /* если нужен фиксированный фон */
     background-size: cover; /* если нужно растянуть */
+    color: white
 }

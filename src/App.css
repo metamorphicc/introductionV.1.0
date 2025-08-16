@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    height: 100vh; 
+    padding: 30px;
+    flex-direction: column;
+
+}
+
+.mainPage {
+    height: 100%;
+    
+
+}
+
