@@ -13,7 +13,9 @@ const Icons = () => {
         <ul>
             {icon.map((item, index) => (
                 <li className="icon" key={index}>
-                    <a href={item.url} aria-label={item.name}>{item.icon}</a>
+                    <div className="iconDiv">
+                        <a href={item.url} aria-label={item.name}>{item.icon}</a>
+                    </div>                 
                 </li>
             ))}
         </ul>
