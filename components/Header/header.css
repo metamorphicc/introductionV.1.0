@@ -12,11 +12,17 @@
     margin: 0;
     padding: 0;
     height: 100%;
-    margin-right: 60px
+    margin-right: 60px;
+
 }
 
 
 li {
     padding: 0 10px;
+}
+
+ul a {
+    color: white;
+
 }
 

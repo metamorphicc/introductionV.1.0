@@ -9,6 +9,7 @@ const Icons = () => {
   ];
 
   return (
+<div className="wrappedIcons">
     <div className="iconsSection">
         <ul>
             {icon.map((item, index) => (
@@ -20,7 +21,7 @@ const Icons = () => {
             ))}
         </ul>
     </div>
-
+</div>
   )
 
 }
