@@ -7,11 +7,11 @@ import "./header.css"
     <>
       <header className="header">
         <div className="divHeader">
-            <img src="../public/morph.png" alt="" width="100px" id="logo" style={{
+            <img src="../public/SVG/logo2.svg" alt="" width="140px" id="logo" style={{
               borderRadius:'50%',
               marginLeft: '60px',
               marginTop: '10px',
-              width:'80px',
+              
             }}/>
         </div>
         <div className="divHeader">
