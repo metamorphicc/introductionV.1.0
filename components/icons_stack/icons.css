@@ -1,0 +1,55 @@
+.iconsSection {
+    position: absolute;
+    width: inherit;
+    bottom: 20%;
+    left: 60px;
+}
+
+.wrappedIcons {
+    height: 20%;
+    position: relative;
+
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.iconDiv {
+    display: flex;
+    width: 55px;
+    height: 55px;
+    background-color: #1b1b1b;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10%;
+    transition: transform 0.3s ease;
+}
+
+.iconDiv:hover {
+    transform: scale(1.1);
+
+}
+
+.icon a svg {
+    width: 35px;
+    height: 35px;
+    fill: #f5f7fa;
+    background-color: #1b1b1b;
+}
+
+.icon a {
+    display: flex;
+
+}
+
+.icon:first{
+    padding: 0px 10px;
+
+}
+
+.icon {
+    padding: 0 10px 
+
+}

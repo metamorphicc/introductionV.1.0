@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80.83 34.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент_767);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_753);
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_753" data-name="Безымянный градиент 753" x1="18.32" y1="17.72" x2="80.33" y2="17.72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".99" stop-color="#a7caed"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_767" data-name="Безымянный градиент 767" x1=".5" y1="17" x2="62.51" y2="17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a7caee"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <path class="cls-2" d="M80.33,17.72c0,9.02-16.81,16.35-37.67,16.5,12.78-.15,23.04-4.66,23.04-10.2,0-2.38-1.89-4.56-5.06-6.3-4.34-2.38-11.07-3.9-18.64-3.9s-14.3,1.52-18.64,3.9c-3.17-1.74-5.06-3.92-5.06-6.3,0-5.54,10.26-10.05,23.05-10.2.22,0,.43,0,.65,0s.43,0,.65,0c20.86.15,37.67,7.48,37.67,16.5Z"/>
+    <path class="cls-1" d="M62.51,23.3c0,5.54-10.26,10.05-23.04,10.2-.22,0-.43,0-.65,0s-.43,0-.65,0C17.31,33.35.5,26.02.5,17S17.31.65,38.17.5c-12.79.15-23.05,4.66-23.05,10.2,0,2.38,1.89,4.56,5.06,6.3,4.34,2.38,11.07,3.9,18.64,3.9s14.3-1.52,18.64-3.9c3.17,1.73,5.06,3.92,5.06,6.3Z"/>
+  </g>
+</svg>

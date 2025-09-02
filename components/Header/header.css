@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.headerUl {
+    display: flex; 
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    margin-right: 60px;
+
+}
+
+
+li {
+    padding: 0 19px;
+}
+
+ul a {
+    color: white;
+
+}
+
+.buttonContact {
+    border-radius: 20px;
+    border: none;
+    background-color: #fff;
+    width: 110px;
+    height: 45px;
+    font: inherit;
+    font-size: 13px;
+    cursor: pointer;
+    box-shadow: 2px 2px 20px 8px #f5f7fa8c;
+}
+
+.space-mono-bold {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}

@@ -1,0 +1,10 @@
+.buttonArrow {
+    display: flex;
+    width: 60px;
+    aspect-ratio: 2 / 1;
+    background-color: #a7caed;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    padding: 0
+}
